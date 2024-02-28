@@ -1,5 +1,5 @@
 #!/bin/bash
-#mvn clean install
+mvn clean install
 
 echo "Building Docker image"
 docker build -t healthmonitor .

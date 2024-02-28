@@ -1,5 +1,2 @@
-com/example/HealthMonitor/handlers/HealthErrorResponseHandler.class
-com/example/HealthMonitor/configuration/RestTemplateConfiguration$1.class
-com/example/HealthMonitor/HealthStatusCheckApplication.class
-com/example/HealthMonitor/configuration/RestTemplateConfiguration.class
-com/example/HealthMonitor/handlers/HealthCheckStatusHandler.class
+com/example/HealthMonitor/WebsiteStatusApplication.class
+com/example/HealthMonitor/handlers/WebsiteStatusChecker.class

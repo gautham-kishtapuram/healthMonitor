@@ -1,4 +1,2 @@
-/home/skishtapuram/Downloads/BreachLock/HealthMonitor/src/main/java/com/example/HealthMonitor/HealthStatusCheckApplication.java
-/home/skishtapuram/Downloads/BreachLock/HealthMonitor/src/main/java/com/example/HealthMonitor/handlers/HealthCheckStatusHandler.java
-/home/skishtapuram/Downloads/BreachLock/HealthMonitor/src/main/java/com/example/HealthMonitor/configuration/RestTemplateConfiguration.java
-/home/skishtapuram/Downloads/BreachLock/HealthMonitor/src/main/java/com/example/HealthMonitor/handlers/HealthErrorResponseHandler.java
+/home/skishtapuram/Downloads/BreachLock/fsdaf/healthMonitor/src/main/java/com/example/HealthMonitor/WebsiteStatusApplication.java
+/home/skishtapuram/Downloads/BreachLock/fsdaf/healthMonitor/src/main/java/com/example/HealthMonitor/handlers/WebsiteStatusChecker.java
